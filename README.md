@@ -7,11 +7,9 @@
     Projektuję i wdrażam rozwiązania <strong>e-commerce (Shopify)</strong>, stale rozwijając warsztat w obszarze <strong>analizy danych</strong>.
   </p>
 
-  <a href="https://linkedin.com/in/TWOJ_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:TWOJ_EMAIL@domena.pl">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <!-- Kontakt -->
+  <a href="mailto:afernandes2004@icloud.com">
+    <img src="https://img.shields.io/badge/Email-afernandes2004%40icloud.com-D14836?style=for-the-badge&logo=icloud&logoColor=white" alt="Email" />
   </a>
 </div>
 
@@ -43,9 +41,9 @@
 
 ---
 
-### 📈 Statystyki GitHub
+### 📈 Aktywność i statystyki
 
 <div align="center">
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=afernandes24&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afernandes24&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=afernandes24&theme=tokyonight&hide_border=true" alt="GitHub Streak" /><br /><br />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=afernandes24&theme=tokyonight" alt="GitHub Summary" />
 </div>
